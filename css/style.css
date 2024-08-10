@@ -7,9 +7,8 @@ body{
     text-align: center;
 }
 .page-heading{
-    color: #0e172c;
     text-align: center;
-    font-size: 90px;
+    font-size: 70px;
     margin: 30px auto;
-    font-weight: bold;
+    font-family: cursive;
 }
