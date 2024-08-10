@@ -1,7 +1,8 @@
 .main-img{
     height: 300px;
     width: 350px;
-    margin-left: -20px;
+    margin-left:-60px;
+    margin-top: -25px;
 }
 .main2-img{
     height: 300px;
@@ -9,12 +10,33 @@
     display: block;
     margin: 10px auto;
     margin-right: 20px;
-    margin-top: -210px;
+    margin-top: -180px;
 }
 .secondary-description{
     font-size: 30px;
     font-weight: 700;
     color: rgb(114, 153, 36);
-    margin-top: -150px;
+    margin-top: -200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.secondary-heading{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -125px;
+}
+.paragraph{
+    font-size:23px;
+    margin-top: -15px;
+}
+.main-btn{
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px ;
+    padding: 8px 20px;
+    background-color: yellowgreen;
+    border: none;
+    cursor: pointer;
+}
+.main-btn:hover{
+    box-shadow: 0 0 10px 2px #0e172c;
 }
