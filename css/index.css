@@ -3,3 +3,18 @@
     width: 350px;
     margin-left: -20px;
 }
+.main2-img{
+    height: 300px;
+    width: 350px;
+    display: block;
+    margin: 10px auto;
+    margin-right: 20px;
+    margin-top: -210px;
+}
+.secondary-description{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(114, 153, 36);
+    margin-top: -150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
