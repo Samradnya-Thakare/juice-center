@@ -41,6 +41,15 @@
 .main-btn:hover{
     box-shadow: 0 0 10px 2px #0e172c;
 }
+.main-btn2{
+    margin-right: 240px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.main-btn1{
+    margin-left: 240px;
+    margin-top: -20px;
+}
 .why-choose-us{
     margin-top: 50px;
     font-size: 40px;
