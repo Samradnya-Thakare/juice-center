@@ -1,0 +1,11 @@
+.contact-image{
+    height: 700px;
+    margin-left: -700px;
+    width: 700px;
+}
+.contact-video{
+    height: 800px;
+    margin-left: 40px;
+    border-radius:40px;
+    width: 700px;
+}
