@@ -12,3 +12,6 @@ body{
     margin: 30px auto;
     font-family: cursive;
 }
+.no-underline{
+    text-decoration: none;
+}
