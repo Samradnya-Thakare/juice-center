@@ -31,3 +31,10 @@
 .main-btn:hover{
     box-shadow: 0 0 10px 2px #0e172c;
 }
+.card:hover{
+    border-radius: 0%;
+    background-color: yellowgreen;
+    .main-btn{
+        background-color: rgb(235, 139, 171) ;
+    }
+}
