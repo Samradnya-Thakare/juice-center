@@ -6,3 +6,7 @@ The commitment to quality, satisfaction and hospitality was shared with every cu
 ---
 
 ![Our-juices](/images/verity-pro-03.jpg)
+
+### one of screenshot of our website
+
+![screenshot](/images/Screenshot%20(143).png)
