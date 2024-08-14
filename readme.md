@@ -11,8 +11,6 @@ The commitment to quality, satisfaction and hospitality was shared with every cu
 
 ![screenshot](/images/Screenshot%20(143).png)
 
----
-
 ## Contributor
 <a href="https://github.com/Samradnya-Thakare/juice-center/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Samradnya-Thakare/juice-center" />
